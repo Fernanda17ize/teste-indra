@@ -1,0 +1,14 @@
+# Indra Teste
+
+Este projeto está em Angular 10.1.1.
+Node –v
+Npm v-
+## Iniciar
+-npm install no console.
+-ng serve.
+## Páginas
+1) Home *** /home
+2) Sign In *** /siginin-indra
+3) Access Account *** /access-account
+## Componente
+1)	Header
