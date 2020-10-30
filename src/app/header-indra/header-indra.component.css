@@ -1,0 +1,59 @@
+
+
+header {
+  background-color:#EFE9E5
+}
+.navbar {
+   width: auto;
+  margin: auto;
+}
+.icon-bank{
+    color:  #ea7901;
+    font-size: 30px;
+    outline: 0;
+}
+a{
+    color: #140083 ;
+    font-weight: bolder;
+}
+a:hover {
+    border-left: 4px solid #140083 ;
+    color:#ea7901;
+    border-radius: 4px;
+    font-weight: bold; 
+}
+ul{
+    text-transform: lowercase;
+}
+.btn-style-search {
+   border: 1px solid #EFE9E5;
+   color: #140083 ;
+}
+.btn-style-search:hover {
+    background-color:  #a3a3a3;
+   
+    border: 0;
+}
+.login-account{
+    width: 900px;
+    height: 500px;
+}
+.login-btn {
+   margin-left: 10px;
+   background:  #140083  ;
+   color: #FFFFFF;
+   font-weight: bold;
+}
+
+.new-account {
+    width: 1200px;
+    margin: auto;
+}
+
+.divisor {
+    font-size: 30px;
+    opacity: 0.5;
+    display: flex;
+    margin: 0px 5px 6px 12px;
+    color:#ea7901;
+}

@@ -1,0 +1,41 @@
+
+
+
+.login-container {
+    margin: auto;
+    width: 475px;
+    height: 235px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 5px solid orange;
+    border-radius: 6px;
+}
+
+.access-client-account {
+color: #140083;
+font-weight: bold;
+text-transform: lowercase;
+height: 35px;
+}
+
+input {
+    border: 2px solid #ea7901;
+    border-radius: 3px;
+    opacity: 0.5;
+    height: 45px;
+    outline: 0;
+    padding-left: 10px;
+}
+
+button {
+    background: #140083;
+    color: white;
+    border: 1px solid;
+    height: 46px;
+    margin-left: -2px;
+    border-radius: 3px;
+    font-weight: bold;
+    outline: 0;
+    text-transform: lowercase;
+}
