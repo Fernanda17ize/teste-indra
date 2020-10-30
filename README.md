@@ -3,16 +3,16 @@
 Este projeto está em Angular 10.1.1.
 
 
-node –v12.16.3
+### node –v12.16.3
 
 
-npm -v6.14.4
+### npm –v6.14.4
 
 ## Iniciar (Console)
--npm install.
--ng serve.
+1) npm install
+2) ng serve
 
-## Páginas
+## Páginas - Conteúdo Projeto
 1) Home *** /home
 
 2) Sign In *** /siginin-indra
