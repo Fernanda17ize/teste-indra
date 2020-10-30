@@ -5,12 +5,18 @@ node -v
 12.16.3
 npm -v
 6.14.4
+
+
 ## Iniciar (No console)
--npm install no console.
--ng serve.
+1) Instalar no console do projeto: npm install.
+2) Rodar o projeto: ng serve.
+
+
 ## Páginas
 1) Home *** /home
 2) Sign In *** /siginin-indra
 3) Access Account *** /access-account
+
+
 ## Componente
 1)	Header
