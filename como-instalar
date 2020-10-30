@@ -1,9 +1,11 @@
 # Indra Teste
 
 Este projeto está em Angular 10.1.1.
-Node –v
-Npm v-
-## Iniciar
+node -v
+12.16.3
+npm -v
+6.14.4
+## Iniciar (No console)
 -npm install no console.
 -ng serve.
 ## Páginas
